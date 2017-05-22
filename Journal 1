@@ -36,5 +36,9 @@ I will need to try again, and on a different computer, to attempt to connect wit
 
 5/17/17
 Today, we decided that I will do a login program for the chat that was created. I started coding some small aspects to it.
-I will need to continue coding in the login program. I will use a program that was previously made and modify it. 
+I will need to continue coding in the login program. I will use a program that was previously made and modify it.
+
+5/22/17
+Today, I worked on the login program. I mostly focused on making the window and making buttons in the window that give the user an option to register or log in to the chat.
+Tomorrow, I will continue to work on this. I have decided to use an array list to store the data of the usernames and passwords so I will work on that when I have finished this part that I am doing right now.  
  
