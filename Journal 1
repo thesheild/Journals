@@ -73,3 +73,7 @@ Today, I attempted to make a button in the window. I did research and read about
  6/5/17
  Today, I worked on the register button's function, focusing on being able to store new user names and passwords  in memory.
  Tomorrow, I will do something similar with the login button. I also need to edit the front end, and the array list of the login page.
+ 
+ 6/6/17
+ The login button works very well. I might not be able to make the register button work properly so i may get rid of it.
+ I still need to make changes in the front end it the login is not very appealing.
